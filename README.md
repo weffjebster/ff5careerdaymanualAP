@@ -14,7 +14,7 @@ For use with the Archipelago multi-game multiworld: https://archipelago.gg
 **Victory Condition**: Defeat NeoExDeath spot
 
 **Notes**: You will need an IPS patch to unlock all jobs from the start and that is also compatible with the Career Day rando. This one will do: https://www.romhacking.net/hacks/6926/
-You also will need to ensure that you enable **All Worlds Open, Grant Key Items, and start with 4 Tablets** in the Career Day randomizer settings. Additionally, the location names for the Monsters in a Box will only make sense if you select the **Monster in a Box Key Items** flag. Additionally additionally, you may want to use **4-Job Mode** to remove job crystals from treasure chests as those are essentially dead items in this implementation. 
+You also will need to ensure that you enable **All Worlds Open, Grant Key Items, and start with 4 Tablets** in the Career Day randomizer settings. Additionally, the location names for the Monsters in a Box will only make sense if you select the **Monster in a Box Key Items** flag. Additionally additionally, 4-job mode will cause all the crystals in the game to be useless items, which may not be very fun.
 
 World 2, World 3, and The Void are unlocked via **Progressive World Unlock**s.
 With the above patch, you start with all the jobs, but you cannot use the jobs until you receive them in AP (there are two copies of each job crystal!)
