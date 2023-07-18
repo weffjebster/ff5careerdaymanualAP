@@ -1,0 +1,22 @@
+{
+    "World 1": {
+        "requires": [],
+        "connects_to": ["World 2", "World 3"],
+		"starting": true
+    },
+
+    "World 2": {
+        "requires": ["Progressive World Unlock:1"],
+        "connects_to": ["World 1", "World 3"]
+    },
+
+    "World 3": {
+        "requires": ["Progressive World Unlock:2"],
+        "connects_to": ["World 1", "World 2", "The Void"]
+    },
+
+    "The Void": {
+        "requires": ["Progressive World Unlock:3"],
+        "connects_to": ["World 1", "World 2", "World 3"]
+    }
+}
