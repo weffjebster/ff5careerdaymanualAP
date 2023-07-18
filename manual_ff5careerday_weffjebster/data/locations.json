@@ -1,5 +1,5 @@
 [
-	{ "name": "Starting Job", "region": "World 1", "place_item_category": "Job" },
+	{ "name": "Starting Job", "region": "World 1", "place_item_category": ["Job"] },
 	{ "name": "Tule Greenhorn MIAB", "region": "World 1" }, 
 	{ "name": "Wind Shrine - Wing Raptor", "region": "World 1" }, 
 	{ "name": "North Mountain - Magisa", "region": "World 1" }, 
