@@ -21,4 +21,4 @@ With the above patch, you start with all the jobs, but you cannot use the jobs u
 
 **Access to World 3 is not considered access to the Void.** In a change from Career Day, the Void can indeed have tablets in it, so beware!
 
-To start you generate a seed with the above flags and any other flags you'd like to use, then click Starting Job in your Manual tracker to see what job crystal you get! Turn all of your characters into that job, and away you go!
+To start you generate a seed with the above flags and any other flags you'd like to use, then click the four Starting Jobs in your Manual tracker to see what jobs you get! Turn all of your characters into their respective starting jobs, and away you go!
