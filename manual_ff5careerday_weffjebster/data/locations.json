@@ -85,6 +85,7 @@
 	{ "name": "Istory Falls Gargoyles", "region": "World 3", "category": ["World 3"], "requires": [ "Falls Page", "Submarine Key" ] }, 
 	{ "name": "Istory Falls - Tablet", "region": "World 3", "category": ["World 3"], "requires": [ "Falls Page", "Submarine Key" ] }, 
 	{ "name": "Istory Falls - Leviathan", "region": "World 3", "category": ["World 3"], "requires": [ "Falls Page", "Submarine Key" ] }, 
+	{ "name": "Istory Falls - Magic Lamp", "region": "World 3", "category": ["World 3"] }, 
 	{ "name": "North Mountain - Bahamut", "region": "World 3", "category": ["World 3"], "requires": [ "Mirage Radar" ] }, 
 	{ "name": "Tule Pass - Antlion", "region": "World 3", "category": ["World 3"] },
 	{ "name": "Underwater Walse Tower - Gogo", "region": "World 3", "category": ["World 3"], "requires": [ "Submarine Key" ] }, 
